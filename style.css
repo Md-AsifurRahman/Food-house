@@ -40,6 +40,18 @@ h1{
     width: 100%;
     border-radius:5%;
 }
+.div-social{
+    width: 100%;
+
+}
+#box-shadow{
+    box-shadow: 10px 10px 40px rgb(201, 199, 199);
+    padding:5%;
+    margin-left:5%;
+    margin-right:5%;
+    border-radius: 5%;
+}
+
 
 
 
