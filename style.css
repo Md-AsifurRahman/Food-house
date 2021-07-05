@@ -1,6 +1,11 @@
 body{
     font-family: 'Roboto Slab', serif;
 }
+.login-form{
+    background-color: rgb(175, 168, 168);
+    padding: 1%;
+    text-align: center;
+}
 h1{
     font-size: xx-large;
 }
@@ -20,6 +25,9 @@ h1{
     padding: 10px 20px;
     font-weight: 700;
     border-radius:50px;
+}
+#link-down{
+    padding-bottom: 10%;
 }
 .section2{
     background-image: url(image/Frame\ 57.jpg);
@@ -61,8 +69,3 @@ h1{
     padding-top: 10px;
     padding-bottom: 50px;
 }
-
-
-
-
-
