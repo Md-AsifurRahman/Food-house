@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: xx-large;
+}
+.title-color{
+    color: blueviolet;
+}
+.section{
+    display: flex;
+    padding: 5%;
+}
+#image2{
+    height: 90%;
+}
+.link{
+    text-decoration: none;
+    background-image:linear-gradient(darkgrey,#b700ffd7);
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius:50px;
+}
+.section2{
+    background-image: url(image/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+}
+#mid_text{
+    text-align: center;
+}
+
