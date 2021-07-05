@@ -28,4 +28,19 @@ h1{
 #mid_text{
     text-align: center;
 }
+.div{
+    width: 80%;
+    margin-left:2%;
+    margin-right:2%;
+    box-shadow: 10px 10px 40px rgb(201, 199, 199);
+    border-radius: 5%;
+    padding: 10px;
+}
+.div img{
+    width: 100%;
+    border-radius:5%;
+}
+
+
+
 
