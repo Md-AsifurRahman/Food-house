@@ -25,8 +25,12 @@ h1{
     background-image: url(image/Frame\ 57.jpg);
     background-repeat: no-repeat;
 }
-#mid_text{
+.mid_text{
     text-align: center;
+}
+#recipie{
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .div{
     width: 80%;
@@ -49,7 +53,13 @@ h1{
     padding:5%;
     margin-left:5%;
     margin-right:5%;
+    margin-bottom: 5%;
     border-radius: 5%;
+}
+#footer{
+    background-color: cadetblue;
+    padding-top: 10px;
+    padding-bottom: 50px;
 }
 
 
