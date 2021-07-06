@@ -6,6 +6,10 @@ body{
     padding: 1%;
     text-align: center;
 }
+#welcome{
+    font-style:oblique;
+
+}
 h1{
     font-size: xx-large;
 }
